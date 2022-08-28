@@ -34,8 +34,8 @@ url: 'https://Ocor17.github.io'
 github:
   username: Ocor17             # change to your github username
 
-twitter:
-  username: twitter_username            # change to your twitter username
+#twitter:
+#  username: twitter_username            # change to your twitter username
 
 linkedin:
   username: juan-oscar-cordova-726997206
@@ -47,7 +47,7 @@ social:
   email: oscar@azemend.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
+    #- https://twitter.com/username      # change to your twitter homepage
     - https://github.com/username       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -86,7 +86,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://media-exp1.licdn.com/dms/image/C4E03AQG4AbDMnlExIg/profile-displayphoto-shrink_800_800/0/1653194511231?e=1667433600&v=beta&t=PXeHR5q66coLN0uzLF_thJtNVJ86D-HVR-3IfORhCKs
+avatar: 'https://media-exp1.licdn.com/dms/image/C4E03AQG4AbDMnlExIg/profile-displayphoto-shrink_800_800/0/1653194511231?e=1667433600&v=beta&t=PXeHR5q66coLN0uzLF_thJtNVJ86D-HVR-3IfORhCKs'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
