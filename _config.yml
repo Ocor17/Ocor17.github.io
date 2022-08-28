@@ -23,7 +23,7 @@ timezone: America/Denver
 
 title: Oscar's site                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline:    # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A small site create to display coding projects and personal projects
@@ -37,8 +37,8 @@ github:
 twitter:
   username: twitter_username            # change to your twitter username
 
-#linkedin:
-#  username: juan-oscar-cordova-726997206
+linkedin:
+  username: juan-oscar-cordova-726997206
 
 social:
   # Change to your full name.
@@ -47,7 +47,7 @@ social:
   email: oscar@azemend.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    #- https://twitter.com/username      # change to your twitter homepage
+    - https://twitter.com/username      # change to your twitter homepage
     - https://github.com/username       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
