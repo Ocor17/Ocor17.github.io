@@ -23,7 +23,7 @@ timezone: America/Denver
 
 title: Oscar's site                          # the main title
 
-tagline:    # it will display as the sub-title
+tagline: A spot for my stuff!    # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A small site create to display coding projects and personal projects
